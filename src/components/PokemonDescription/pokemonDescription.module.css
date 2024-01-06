@@ -1,0 +1,21 @@
+.childDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.childDetails img {
+    width: 200px;
+}
+
+.flexTitles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+}
+
+.childDetails h1 {
+    font-size: 35pt;
+}

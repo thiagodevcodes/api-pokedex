@@ -1,0 +1,38 @@
+.containerDetails {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.containerDetails button {
+    background-color: #de5200;
+    border: none;
+    padding: 10px;
+    width: 200px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15pt;
+}
+
+.containerDetails div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.containerFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerMain {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+

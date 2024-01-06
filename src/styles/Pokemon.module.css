@@ -16,6 +16,11 @@
     font-size: 15pt;
 }
 
+.containerDetails button:hover {
+    background-color: #802f00;
+    transition: 0.3s ease;
+}
+
 .containerDetails div {
     display: flex;
     align-items: center;

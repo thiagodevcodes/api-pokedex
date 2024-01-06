@@ -5,6 +5,11 @@
     flex-wrap: wrap;
 }
 
+.boxChild:hover {
+    background-color: #883200;
+    transition: 0.3s ease;
+}
+
 .box a {
     text-decoration: none;
 }
